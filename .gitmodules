@@ -1,0 +1,6 @@
+[submodule "hawc/themes/zen"]
+	path = hawc/themes/zen
+	url = https://github.com/frjo/hugo-theme-zen.git
+[submodule "hawc/themes/researcher"]
+	path = hawc/themes/researcher
+	url = https://github.com/ojroques/hugo-researcher.git
