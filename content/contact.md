@@ -1,12 +1,8 @@
-+++
+---
 title = "Contact"
-+++
-
-* Email: [alwermercolan@gmail.com](mailto:alwermercolan@gmail.com)
-
 ---
 
-
+* Email: [alwermercolan@gmail.com](mailto:alwermercolan@gmail.com)
 
 ## Social
 
