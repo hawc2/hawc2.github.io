@@ -1,5 +1,5 @@
 title = 'Alex Wermer-Colan'
-baseURL = 'http://hawc2.github.io/'
+baseURL = 'https://hawc2.github.io/'
 languageCode = 'en-us'
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
