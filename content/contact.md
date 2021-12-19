@@ -1,9 +1,10 @@
----
-title: "Contact"
-date: 2021-12-18T12:18:11-05:00
----
++++
+title = "Contact"
++++
 
-* Email: [alwermercolan@gmail.com](mailto:alwermercolan@gmail.com)
+# Contact
+
+1. [Professional Email](mailto:alex.wermer-colan@temple.edu)
 
 ## Social
 
