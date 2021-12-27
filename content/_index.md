@@ -2,17 +2,13 @@
 title = "Home"
 +++
 
-{{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
-
 ## Introductions
-
-{{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
 Hi, I'm testing out building a professional website from scratch. This is a work in progress. Visit www.alexwermercolan.com for my primary website.
 
 ## About Me
 
-{{< figure class="headshot" src="/headshot.jpg" alt="headshot">}}
+{{< figure class="avatar" src="/avatar.png" alt="headshot">}}
 
 I am a writer, editor, and translator. I also work as a volunteer as the Administrative Lead of the Philly Community Wireless project. 
 
