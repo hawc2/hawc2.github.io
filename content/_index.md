@@ -12,7 +12,7 @@ Hi, I'm testing out building a professional website from scratch. This is a work
 
 ## About Me
 
-{{< figure class="avatar" src="/headshot.png" alt="headshot">}}
+{{< figure class="avatar" src="/headshot.jpg" alt="headshot">}}
 
 I am a writer, editor, and translator. I also work as a volunteer as the Administrative Lead of the Philly Community Wireless project. 
 
