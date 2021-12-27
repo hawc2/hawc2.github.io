@@ -2,6 +2,8 @@
 title = "Home"
 +++
 
+> Let a little less last - Gertrude Stein
+
 ## Introductions
 
 Hi, I'm testing out building a professional website from scratch. This is a work in progress. Visit www.alexwermercolan.com for my primary website.
