@@ -14,14 +14,12 @@ Hi, I'm testing out building a professional website from scratch. This is a work
 
 {{< figure class="headshot" src="/headshot.jpg" alt="headshot">}}
 
-I am a writer, editor, and translator. I work at Temple University as a Digital Scholarship Coordinator in TU Libraries' Loretta C. Duckworth Scholars Studio. 
+I am a writer, editor, and translator. I also work at as a Digital Scholarship Coordinator in Temple University Libraries' Loretta C. Duckworth Scholars Studio. 
 
-In my professional and artistic work, my primary interests remain at the intersection of politics, aesthetics, and technology.
-
-My interests in translation span many forms of critical and creative, including editing books of scholarly criticism and literary history, curating rare archival materials with emerging technologies for web and immersive visualization, and working as a dramaturg to adapt fiction to new media theatrical performances. 
+My research and creative interests circle around the intersection of politics, aesthetics, and technology. I think of much of my work in terms of translation, no matter if I am editing books of scholarly criticism and literary history, curating rare archival materials with emerging technologies for web and immersive visualization, and working as a dramaturg to adapt fiction to new media theatrical performances, or translating French poetry into English.
 
 ## Portfolio
 
-For my academic scholarship and related professional experience, please visit my [CV](/cv).
+For more info about my academic scholarship and related professional experience, please visit my [CV](/cv).
 
 For my creative work in translation, dramaturgy, and digital new media arts, see my [Portfolio](/portfolio).
