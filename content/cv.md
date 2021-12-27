@@ -6,32 +6,32 @@ title = "CV"
 # CV
 
 
-ACADEMIC APPOINTMENTS				   					
+## ACADEMIC APPOINTMENTS				   					
 Digital Scholarship Coordinator (2021-Present)
 	Temple University, Charles Library, Scholars Studio
 Council of Library Information Resources and Digital Humanities Postdoctoral Fellowship (2017-2020)
 Temple University, Samuel Paley Library, Digital Scholarship Center 
 
-EDUCATION												
+## EDUCATION												
 Ph.D., English, The Graduate Center, City University of New York (2017)		
 	Certificate: Critical Theory
 M.A., Humanities, University of Chicago (2009)		
 B.A., Liberal Arts, Vassar College (2007)
 
-RESEARCH AND TEACHING INTERESTS							
+## RESEARCH AND TEACHING INTERESTS							
 Twentieth-Century American, British, and French Literature; Critical Theory; Post-Colonialism; Gender and Sexuality; Archival Studies; Cinema and Media Studies; Digital Humanities; Cultural Analytics; Natural Language Processing; Immersive Technologies (XR/AR/VR), Dramaturgy
 
-EDITORIAL POSITIONS   										
+## EDITORIAL POSITIONS   										
 The Programming Historian in English, Deputy Editor (2020-present)
 
-PUBLICATIONS										 	
+## PUBLICATIONS										 	
 Edited Books
 Immersive Pedagogy: The DLF Teach Toolkit Vol 2. Principal Editor (2021)
 William S. Burroughs Cutting Up the Century, Ed. with J. Hawkins, Indiana University Press (2019)
 The Travel Agency is on Fire: William S. Burroughs Cuts Up the Canon, Lost & Found: The CUNY Poetics Document Initiative, 5.2 (2015)
 The Renaissance of Roland Barthes, Special Issue of The Conversant (with contributions by J. Culler, R. Krauss, D. Greetham, L. O’Meara, D. Knight) (2014)
 
-Journal Articles
+### Journal Articles
 “On the Periphery: Decentering Graduate Pedagogy in Libraries and Digital Humanities Centers” 
 Digital Futures of Graduate Studies in the Humanities: Debates in the Digital Humanities (forthcoming 2022)
 “Webscraping and Modeling YouTube Comment Data with Wordfish in R,” Co-authored with J.
@@ -51,30 +51,30 @@ Plumed Serpent and “The Woman Who Rode Away,” D.H. Lawrence Review 42.2 (201
 Comparative Literature 62 (2016)
  “Implicating the Confessor: The Autobiographical Ploy in William S. Burroughs’s Early Works,” Twentieth Century Literature 56.4 (2010)
 
-Book Chapters 
+### Book Chapters 
 “Across the Wounded Galaxies: Vector Semantics in Dystopian New Wave Sci-Fi,” Wounded 
 Galaxies: American Culture after 1968, Eds. C. Cannon and J. Hawkins, Indiana University Press (forthcoming 2022)
 “William Burroughs.” Encyclopedia of Contemporary American Fiction, 1980-2020. Wiley-Blackwell (2021)
 “Digitizing the ‘Word Hoard’:  Counter-Cultural Archives of the American Century,” Burroughs Unbound, Ed. S. Gontarski, Bloomsbury Press (2021)
 “William S. Burroughs’s Imperial Decadence: Subversive Literature in the Cynical Age of the American Century,” Cutting Up the Century, Eds. J. Hawkins and A. Wermer-Colan, Indiana University Press (2019)
 
-Translations 
+### Translations 
 Letter to the Americans (1949), Jean Cocteau, New Directions (forthcoming 2022)
 
-Interviews
+### Interviews
  “Facebook and Science Fiction: An Interview with Samuel R. Delany Part II,” Los Angeles Review of Books (2019)
  “Stonewall, Before and After: An Interview with Samuel R. Delany Part I,” Los Angeles Review of 
 Books (2019)
 
-Book Reviews
+### Book Reviews
 “Véronique Lane’s The French Genealogy of the Beat Generation,” L’Esprit Créateur: The International Quarterly of French and Francophone Studies 58.4 (2018)
 “Fear of the Deeps: On Alain Guiraudie's Now the Night Begins,” Los Angeles Review of Books (2018)
 
-Preprint
+### Preprint
  “Machine Learning Methods for Systematic Reviews: A Systematic Review,” Protocol Co-authored 
 with S. Roth and J. Peirce (2018)
 
-DIGITAL PROJECTS										
+## DIGITAL PROJECTS										
 Philly Community Wireless, Steering Committee (2020-2021)					
 Inaccessible, Videogame Designer (2020)
 Visionary Futures Collective, Steering Committee (2020-2021)
@@ -86,7 +86,8 @@ The Beggar’s Opera: A Multimedia Digital Edition, Project Manager (2017-Presen
 Systematic Social Observation in 360, Co-PI with A. Olaghere (2017-2019)
 Simulating the Wall on YouTube, Project Lead (2018-Present)
 Calculating the Politics of Aesthetics: Text-Mining War Movie Reviews on Rotten Tomatoes, PI (2015-2018)					
-SELECTED FELLOWSHIPS AND GRANTS            						
+
+## SELECTED FELLOWSHIPS AND GRANTS            						
 Independent Public Media Foundation, Project Lead, Philly Community Wireless
 Digital Literacy Alliance, Project Lead, Philly Community Wireless
 Grant-in-Aid, Temple University, “The Beggar’s Opera: A Multi-Modal Digital Edition” (2020)
@@ -106,7 +107,7 @@ Alumni and Faculty Dissertation Year Fellowship, Ph.D. Program in English, The G
 CUNY (2013)
 Enhanced Chancellor’s Fellowship, The Graduate Center, CUNY (2010-2015)
 
-INVITED TALKS AND LECTURES								
+## INVITED TALKS AND LECTURES								
 “The Stories We Tell Ourselves: The Cultural Analytics of Climate Fiction in the Age of the 
 Anthropocene,” “CHAT Spring Symposium: Climate Literacy and Narratives of Earth's Future,” Temple University (Apr. 24, 2020 – Canceled due to Covid-19)
 “Science Fiction for the Future: Building Collections for Teaching and Research,” Temple University 
@@ -126,26 +127,26 @@ of New York at Albany (Oct. 11, 2019)
 “Burroughs in Mexico City: The Appalling is Appealing,” for “The Stray Bullet: William S. 
 Burroughs and Mexico,” Mexican Cultural Institute, NYC (May 22, 2014)
 
-CONFERENCE AND PANEL ORGANIZATION							
-Conference Organization
+## CONFERENCE AND PANEL ORGANIZATION							
+### Conference Organization
 “Keystone DH 2020/2021,” Co-Chair of Organization Committee, Temple University, 2019-2020 
  “Immersive Pedagogy: A Symposium on Teaching and Learning with 3D Augmented and Virtual Reality,” Co-organized Conference with CLIR Inquiry Cohort, Carnegie Mellon University, Pittsburgh (June 27-28, 2019)
 “William S. Burroughs Centennial Conference,” The Graduate Center, CUNY, NYC (Apr. 25, 2014)
  “The Renaissance of Roland Barthes: An Interdisciplinary Conference on Critical Theory,” Co-organized Conference with Claire Summers, The Graduate Center, CUNY, NYC (Apr. 25-26)
 
-Panel Organization
+### Panel Organization
 “CLIR Opportunities: Balancing Academic and Alt-Ac Career Paths for Doctoral Students,” Center for Humanities at Temple, Philadelphia (Mar. 12, 2019)
 “Immersive Pedagogy: Teaching and Learning in 3D,” Co-organized Panel with CLIR Inquiry Cohort, Digital Library Federation’s Annual Forum, Las Vegas (Oct. 15-18, 2018)
 “Cutting Up the Century: The Politics of Collage,” Co-organized Panel with Joan Hawkins, Modern Language Association’s Annual Convention, Austin, TX (Jan. 7-10, 2016)	
 
-Panel Chair
+### Panel Chair
 “Fandom, Reception and Critique in the Digital Age,” Panel Chair, Society for Cinema and Media 
 Studies’s Annual Conference, Toronto (Mar. 14-18, 2018)
 “The Counter Culture, Surrealism, and Cyberspace,” Panel Chair, Wounded Galaxies: 1968 
 Symposium, Indiana University, Bloomington (Feb. 8-10, 2018)
  “Burroughs in Morocco,” Panel Chair, European Beat Studies Network’s Third Annual Conference, Tangier, Morocco (Nov. 17-19, 2014)
 
-SELECTED CONFERENCE PARTICIPATION							
+## SELECTED CONFERENCE PARTICIPATION							
 “A Pedagogy of Nuance: From Roland Barthes’ The Neutral to Cultural Analytics for Ideology Critique,” Critical Engagements between Modern Languages and Digital Humanities Panel, Modern Language Association’s Annual Convention, Seattle WA (Jan. 9-12, 2020) 
  “Simulating the Wall on YouTube: Cultural Analytics of Political Discourse in the Age of New Media,” Digital Humanities and Media Studies: Reading at Scale Panel, Modern 
 Languages Association’s Annual Convention, Seattle WA (Jan. 9-12, 2020)
@@ -194,10 +195,9 @@ Contemporary Literature Association’s Annual Conference, New York University, 
 New England Modern Language Association’s Annual Convention, Boston, MA (Mar. 
 21-24, 2013)
 
-TEACHING POSITIONS  										
+## TEACHING POSITIONS  										
 Adjunct Assistant Professor, Guttman Community College, CUNY (2017)
 “Composition I” (2 sections): Required, writing-intensive 
-
 Graduate Teaching Fellowship (sole instructor), Hunter College, CUNY (2011-2017)
 “Imperial Decadence” (2 sections): Writing intensive seminar for English majors
  “Introduction to Writing about Literature” (15 sections): Required, writing-intensive 
@@ -207,7 +207,7 @@ for English majors
 Required for English majors 
 “Multi-Ethnic American Literature” (1 section): Required for English majors
 
-ACADEMIC SERVICE										
+## ACADEMIC SERVICE										
 Steering Committee Member, Research Data Services, Charles Library (2019-2020)
 Editor, Scholars Studio’s Website and Blog, Temple University (2017-Present)	
 Member Representative, HathiTrust Digital Library Annual Meeting (2019)
@@ -229,16 +229,16 @@ Student Representative, Faculty Membership Committee, Modernist Search, Ph.D. Pr
 The Graduate Center, CUNY (2014-2015)
 Managing Editor, Montaigne Studies, University of Chicago (2008-2009)	
 
-LANGUAGES											
+## LANGUAGES											
 French: 	Writing (proficient), Reading (fluent), speaking (proficient)
 Spanish:	Writing (proficient), Reading (proficient), speaking (conversational)
 
-TECHNICAL SKILLS 										 
+## TECHNICAL SKILLS 										 
 Coding:     Python (including Pandas, Numpy, NLTK, Gensim, SpaCy), R (including Tidyverse), Bash, Git, MySQL, SPARQL, XML/XSLT, Markdown, HTML/CSS, Markdown, Javascript (learning), Php (learning), OpenRefine, Jekyll, Flask, Django, Hugo, Omeka S, Gephi, QGIS, Tableau, AgiSoft Photoscan, Blender, Unity 3D
 Suites:       Microsoft Office, Google Apps, Adobe Creative Cloud, LibApps, Atlassian
 OS:            Mac OS, Windows, Linux (Ubuntu)
 
-PROFESSIONAL TRAINING									
+## PROFESSIONAL TRAINING									
 Minimal Computing, Alex Gil and Marii Nyröp, DREAM Lab, University of Pennsylvania (2019)
 Community Archiving and Digital Cultural Memory, Bethany Nowviskie, Rare Books School, Free 
 Library of Philadelphia (2019)
@@ -248,14 +248,14 @@ Text Encoding Initiative (From XML to XSLT), Elisa Beshero, Mitford Coding Schoo
 Pittsburgh (2018)
 Certificate of Proficiency in French, School of Continuing Studies, McGill University (2007-2008)
 
-ART RESIDENCIES												
+## ART RESIDENCIES												
 Pioneer Works Arts Residency, Pioneer Works, Brooklyn, NY (2019)
 Watermill Arts Residency, Watermill Center, Long Island, NY (2019)
 Experimental Theater Arts Residency, Collapsible Hole, New York, NY (2019)
 Mabou Mines Arts Residency, Mabou Mines, New York, NY (2018)
 The Watershed Lab Residency, Mount Tremper Arts, Mount Tremper, NY (2017)
 
-PROFESSIONAL AFFILIATIONS									
+## PROFESSIONAL AFFILIATIONS									
 Association for Computers and the Humanities
 Association of Digital Humanities Organizations
 Association of Internet Researchers
