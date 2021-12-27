@@ -13,7 +13,7 @@ Council of Library Information Resources and Digital Humanities Postdoctoral Fel
 Temple University, Samuel Paley Library, Digital Scholarship Center 
 
 ## EDUCATION												
-Ph.D., English, The Graduate Center, City University of New York (2017)		
+Ph.D., English, The Graduate Center, City University of New York (2017)	
 	Certificate: Critical Theory
 M.A., Humanities, University of Chicago (2009)		
 B.A., Liberal Arts, Vassar College (2007)
