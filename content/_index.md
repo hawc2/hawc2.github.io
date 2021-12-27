@@ -14,9 +14,15 @@ Hi, I'm testing out building a professional website from scratch. This is a work
 
 {{< figure class="headshot" src="/headshot.jpg" alt="headshot">}}
 
-I am a writer, editor, and translator. I also work at as a Digital Scholarship Coordinator in Temple University Libraries' Loretta C. Duckworth Scholars Studio. 
+I am a writer, editor, and translator. I also work as a volunteer as the Administrative Lead of the Philly Community Wireless project. 
 
-My research and creative interests circle around the intersection of politics, aesthetics, and technology. I think of much of my work in terms of translation, no matter if I am editing books of scholarly criticism and literary history, curating rare archival materials with emerging technologies for web and immersive visualization, and working as a dramaturg to adapt fiction to new media theatrical performances, or translating French poetry into English.
+For my day job, I work as a Digital Scholarship Coordinator in Temple University Libraries' Loretta C. Duckworth Scholars Studio. 
+
+These disparate projects act as different outlets for my research and creative interests, which always circle around the intersection of politics, aesthetics, and technology. 
+
+I think of much of my work in terms of translation, no matter if I am editing books of scholarly criticism and literary history, curating rare archival materials with emerging technologies for web and immersive visualization, and working as a dramaturg to adapt fiction to new media theatrical performances, or translating French poetry into English. 
+
+I am always concerned with how issues of power and social justice impeded access to information and culture in all its forms is instrumental to the decline in social infrastructure and the environment today.
 
 ## Portfolio
 
