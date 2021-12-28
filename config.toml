@@ -36,7 +36,7 @@ googleAnalytics = ""  # add your tracking id
 [menu]
   [[menu.main]]
     name = "Academic CV"
-    url = "/cv
+    url = "/cv"
     weight = 1 
   [[menu.main]]
     name = "Portfolio"
