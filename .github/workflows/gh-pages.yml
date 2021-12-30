@@ -4,7 +4,7 @@ on:
   push:
     branches:
      # - main  # Set a branch to deploy
-      - cuppter
+      - cupper
   pull_request:
 
 jobs:
