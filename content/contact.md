@@ -10,3 +10,4 @@ title = "Contact"
 
 1. [Github](https://github.com/hawc2)
 2. [Twitter](https://twitter.com/AlexWermerColan)
+3. [LinkedIn](https://www.linkedin.com/in/alex-wermer-colan-542148164)
