@@ -1,12 +1,7 @@
-+++
-title = "Contact"
-+++
+## Contact us
 
-# Contact
+{{< fa envelope >}} phillycommunitywireless@gmail.com
 
-1. [Professional Email](mailto:alex.wermer-colan@temple.edu)
+{{< fa phone >}} 215-316-5761
 
-## Social
-
-1. [Github](https://github.com/hawc2)
-2. [Twitter](https://twitter.com/AlexWermerColan)
+{{< fa fab facebook >}} Find us on [Facebook](https://www.facebook.com/Philly-Community-Wireless-111328101173369/)

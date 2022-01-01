@@ -4,3 +4,9 @@
 [submodule "hawc/themes/researcher"]
 	path = hawc/themes/researcher
 	url = https://github.com/ojroques/hugo-researcher.git
+[submodule "themes/hugo-apero"]
+	path = themes/hugo-apero
+	url = https://github.com/hugo-apero/hugo-apero.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git

@@ -1,31 +1,22 @@
-+++
-title = "Home"
-+++
+---
+date: 2021-09-30
+title: Home
+---
 
-> Let a little less last - Gertrude Stein
+**[We're hiring a full-time paid project manager!](/job)**
 
-## Introductions
+**Philly Community Wireless** (PCW) is building community-owned and -operated internet infrastructures in order to democratize information access, promote digital literacy, and fight digital inequity with free, net-neutral broadband service in North Philadelphia.
 
-{{< figure class="avatar" src="/headshot.jpg" alt="headshot">}}
+### We believe that internet access is a human right.
 
-Hi, I'm testing out building a professional website from scratch. This is a work in progress. Visit www.alexwermercolan.com for my primary website.
+We are currently partnering with residents and nonprofits organizations in the **Norris Square Park** neighborhood, offering free installations of network antennas on rooftops to expand the public wifi signal around the neighborhood.
 
-## About Me
+### **[Get Connected](https://docs.google.com/forms/d/e/1FAIpQLSfjx0A9mFxMiXSb1jisgcHFHwTzktsuz4c36Ja1tVOQjjXzow/viewform)** to free wireless internet
 
-I am a writer, editor, and translator. I also work as a volunteer as the Administrative Lead of the Philly Community Wireless project. 
+### **[Volunteer](mailto:phillycommunitywireless@gmail.com)** to help build the network
 
-For my day job, I work as a Digital Scholarship Coordinator in Temple University Libraries' Loretta C. Duckworth Scholars Studio. 
+### **[Learn More](https://phillycommunitywireless.org/faq/)** in our FAQ
 
-## Professional Background 
+### **[Sign Up for our Newsletter](https://phillycommunitywireless.us5.list-manage.com/subscribe?u=7a97e4278a5833f5505a85940&id=6af414f631)** to receive updates
 
-My scholarly and creative interests always circle around the intersection of politics, aesthetics, and technology. 
-
-I think of my work in terms of translation, no matter if I am editing books of scholarly criticism and literary history, curating archival materials with emerging technologies for web and immersive visualization, working as a dramaturg to adapt fiction to new media theatrical performances, or translating French poetry into English. I am always concerned with how issues of power and social justice impede access to information and culture, and how these failures and limitations to communication is instrumental to the decline in social infrastructure and the global environment today.
-
-I work on projects that involve artistic interventions into political issues, as well as critical essays on ideological stalemates in historical periods. I am also working on reparative projects, remediating marginalized archival materials, documenting neglected works of art like black art in Philly, or contributing to the growth of a community-owned wireless internet network.
-
-## Portfolio
-
-For more info about my academic scholarship and related professional experience, please visit my [CV](/cv).
-
-For my creative work in translation, dramaturgy, and digital new media arts, see my [Portfolio](/portfolio).
+### **[Donate](https://phillycommunitywireless.wedid.it/) to help us expand**
