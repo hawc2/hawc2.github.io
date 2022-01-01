@@ -6,7 +6,7 @@ title: Home
 
 ## Introductions
 
-{{< figure class="avatar" src="/headshot.jpg" alt="headshot">}}
+{{< figure class="avatar" src="/images/headshot.jpg" alt="headshot">}}
 
 Hi, I'm testing out building a professional website from scratch. This is a work in progress. Visit www.alexwermercolan.com for my primary website.
 
