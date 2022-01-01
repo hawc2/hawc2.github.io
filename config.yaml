@@ -4,15 +4,11 @@ defaultContentLanguage: en
 title: Alex Wermer-Colan
 theme: ananke
 
-
 contentDir: content
 menu:
   main:
-    # - name: Home
-    #   url: /
-    #   weight: 0
-    - name: About
-      url: /about
+    - name: Projects
+      url: /projects
       weight: 1
     - name: Contact
       url: /contact
@@ -25,9 +21,8 @@ menu:
       weight: 4
 
 params:
-  # theme
-  site_logo: /images/logo.svg
-  favicon: /images/logo-purple.svg
+  site_logo: /images/headshot.jpg
+  favicon: /favicon/favicon.ico
   featured_image: /images/hero.jpg
   cover_dimming_class: bg-black-10
   background_color_class: bg-dark-gray
