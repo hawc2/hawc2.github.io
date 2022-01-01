@@ -1,0 +1,37 @@
+baseURL: https://hawc2.github.io
+languageCode: en-us
+defaultContentLanguage: en
+title: Alex Wermer-Colan
+theme: ananke
+
+contentDir: content
+menu:
+  main:
+    - name: Projects
+      url: /projects
+      weight: 1
+    - name: Contact
+      url: /contact
+      weight: 2
+    - name: CV
+      url: /cv
+      weight: 3
+    - name: Portfolio
+      url: /portfolio
+      weight: 4
+
+params:
+  site_logo: /images/headshot.jpg
+  favicon: /favicon/favicon.ico
+  featured_image: /images/hero.jpg
+  cover_dimming_class: bg-black-10
+  background_color_class: bg-dark-gray
+  body_classes: helvetica black
+  custom_css:
+    - custom.css
+
+markup:
+  goldmark:
+    renderer:
+      # Allow HTML in markdown
+      unsafe: true
