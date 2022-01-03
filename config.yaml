@@ -7,15 +7,24 @@ theme: ananke
 contentDir: content
 menu:
   main:
+    - name: Writing
+      url: /writing
+      weight: 1
+    - name: Translating
+      url: /translating
+      weight: 2
+    - name: Dramaturgy
+      url: /dramaturgy
+      weight: 3
     - name: Projects
       url: /projects
-      weight: 1
+      weight: 4
+    - name: Coding
+      url: /coding
+      weight: 5
     - name: CV
       url: /cv
-      weight: 2
-    - name: Portfolio
-      url: /portfolio
-      weight: 3
+      weight: 6
 
 params:
   site_logo: /images/headshot.jpg

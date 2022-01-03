@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@600&display=swap");
 
 :root {
-  --orange: rgb(255, 128, 0);
-  --blue: rgb(93, 57, 255);
+  --orange: rgb(1, 9, 56);
+  --blue: rgb(8, 0, 7);
 
   --primary: var(--blue);
 }

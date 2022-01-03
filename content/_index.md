@@ -26,6 +26,11 @@ I work on projects that involve artistic interventions into political issues, as
 
 ## Portfolio
 
+
+My creative work represented here ranges from translation of literary works to their adaptation for the theater.
+
+{{< figure class="avatar" src="/avatar.png" alt="avatar">}}
+
 For more info about my academic scholarship and related professional experience, please visit my [CV](/cv).
 
 For my creative work in translation, dramaturgy, and digital new media arts, see my [Portfolio](/portfolio).
