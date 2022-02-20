@@ -6,8 +6,6 @@ title: Home
 
 ## Introductions
 
-{{< figure class="avatar" src="/images/headshot.jpg" alt="headshot">}}
-
 Hi, I'm testing out building a professional website from scratch. This is a work in progress. Visit www.alexwermercolan.com for my primary website.
 
 ## About Me
@@ -20,12 +18,11 @@ For my day job, I work as a Digital Scholarship Coordinator in Temple University
 
 My scholarly and creative interests always circle around the intersection of politics, aesthetics, and technology.
 
-I think of my work in terms of translation, no matter if I am editing books of scholarly criticism and literary history, curating archival materials with emerging technologies for web and immersive visualization, working as a dramaturg to adapt fiction to new media theatrical performances, or translating French poetry into English. I am always concerned with how issues of power and social justice impede access to information and culture, and how these failures and limitations to communication is instrumental to the decline in social infrastructure and the global environment today.
+I think of my work in terms of translation, no matter if I am writing, editing, curating, working as a dramaturg, or translating French literature into English. I am always concerned with how issues of power and social justice impede access to information and culture, and how these failures and limitations to communication has become instrumental to the decline in social infrastructure and the global environment today.
 
-I work on projects that involve artistic interventions into political issues, as well as critical essays on ideological stalemates in historical periods. I am also working on reparative projects, remediating marginalized archival materials, documenting neglected works of art like black art in Philly, or contributing to the growth of a community-owned wireless internet network.
+I work on projects that involve artistic interventions into political issues, from a critical vantage point, as well as towards reparative ending, remediating marginalized archival materials, documenting neglected works of art, or contributing to the growth of a community-owned wireless internet network.
 
 ## Portfolio
-
 
 My creative work represented here ranges from translation of literary works to their adaptation for the theater.
 
