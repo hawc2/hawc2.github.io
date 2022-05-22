@@ -16,4 +16,8 @@ Beggars Opera, Gatsby CeTEIcean GH-pages site: https://hawc2.github.io/gatsby_bo
 
 Speculative Facebook, a Wax Jekkyl site: https://hawc2.github.io/sf/
 
+SF Data Viz: https://github.com/hawc2/sflda
+
+SF Data API: https://github.com/hawc2/sfdata
+
 PCW Storymap, with Mapbox: https://phillycommunitywireless.org/map/
