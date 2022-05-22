@@ -1,8 +1,6 @@
-# hawc2.github.io
+# My website, a work in progress
 
-My website, a work in progress
-
-# projects
+## related projects
 
 Besides my Hugo website, I am creating a series of project websites, including:
 
