@@ -5,4 +5,4 @@ title: Coding
 
 # First Section
 
-Various scripts, computing projects, Github resources, etc.
+This section showcases various scripts I've been working on for computing projects, Github resources, etc.
