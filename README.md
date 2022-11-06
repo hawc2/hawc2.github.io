@@ -1,4 +1,6 @@
-# My website, a work in progress
+# My website
+
+a work in progress
 
 ## related projects
 
