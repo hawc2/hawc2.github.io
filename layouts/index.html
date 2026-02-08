@@ -1,0 +1,90 @@
+{{ define "main" }}
+<div class="home-page">
+    <section class="hero">
+        <h2 class="glitch" data-text="Welcome">Welcome</h2>
+        <p class="intro">Digital scholarship, translation, pedagogy, and community tech</p>
+        <div class="terminal-box">
+            <p>Building public scholarship at the intersection of technology, culture, and history</p>
+            <p>Partnering with libraries, artists, and communities on research and storytelling</p>
+        </div>
+        <div class="hero-quote">
+            <blockquote>Let a little less last.</blockquote>
+            <p class="hero-attribution">&mdash; Gertrude Stein</p>
+        </div>
+        <div class="hero-note">
+            <img class="avatar-badge" src="{{ "images/avatar.png" | relURL }}" alt="Alex Wermer-Colan" loading="lazy">
+            <p>This is a test site. Visit <a href="https://www.alexwermercolan.com">www.alexwermercolan.com</a> for the primary site.</p>
+        </div>
+        <div class="hero-media">
+            <img src="{{ "images/hero.jpg" | relURL }}" alt="Collage of archival materials" loading="lazy">
+        </div>
+    </section>
+
+    <section class="about">
+        <h3>About</h3>
+        <div class="about-grid">
+            <div>
+                <p>
+                    I am a writer, editor, and translator working in digital humanities
+                    and community technology. By day I serve as a Digital Scholarship
+                    Coordinator at Temple University Libraries. I also volunteer as the
+                    Administrative Lead for Philly Community Wireless.
+                </p>
+                <p>
+                    My work ranges from speculative fiction archives and cultural analytics
+                    to public-facing digital editions, immersive pedagogy, and collaborative
+                    arts projects. This site is a testing ground for a future personal website
+                    and a home for research, writing, and professional services.
+                </p>
+            </div>
+            <figure class="about-portrait">
+                <img src="{{ "images/headshot.jpg" | relURL }}" alt="Portrait of Alex Wermer-Colan" loading="lazy">
+            </figure>
+        </div>
+    </section>
+
+    <section class="media-section">
+        <h3>Featured Media</h3>
+        <p class="media-note">Video archive in progress. Links and recordings will be added as they are cleared.</p>
+        <div class="media-grid">
+            <div class="media-card">
+                <h4>Talks and Workshops</h4>
+                <p>Conference talks, public lectures, and invited workshops.</p>
+            </div>
+            <div class="media-card">
+                <h4>Project Walkthroughs</h4>
+                <p>Short demos and behind-the-scenes tours of digital projects.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="quick-links">
+        <div class="link-grid">
+            <a href="{{ "/cv/" | relURL }}" class="cyber-card">
+                <h4>Curriculum Vitae</h4>
+                <p>View my academic and professional experience</p>
+            </a>
+            <a href="{{ "/writing/" | relURL }}" class="cyber-card">
+                <h4>Writing</h4>
+                <p>Publications, edited volumes, and translations</p>
+            </a>
+            <a href="{{ "/dramaturgy/" | relURL }}" class="cyber-card">
+                <h4>Dramaturgy</h4>
+                <p>Theater, music, and script-writing</p>
+            </a>
+            <a href="{{ "/projects/" | relURL }}" class="cyber-card">
+                <h4>Projects</h4>
+                <p>Research, development, and coding work</p>
+            </a>
+            <a href="{{ "/pedagogy/" | relURL }}" class="cyber-card">
+                <h4>Teaching</h4>
+                <p>Courses, talks, workshops, and conferences</p>
+            </a>
+            <a href="{{ "/contact/" | relURL }}" class="cyber-card">
+                <h4>Contact</h4>
+                <p>Collaborate, commission work, or inquire about services</p>
+            </a>
+        </div>
+    </section>
+</div>
+{{ end }}
