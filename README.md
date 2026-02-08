@@ -14,7 +14,7 @@ SF Nexus, 11ty Netlify site: https://www.sfnexus.io/
 
 Beggars Opera, Gatsby CeTEIcean GH-pages site: https://hawc2.github.io/gatsby_bo/
 
-Speculative Facebook, a Wax Jekkyl site: https://hawc2.github.io/sf/
+Speculative Facebooks, a Wax Jekkyl site: https://hawc2.github.io/speculative-facebooks/
 
 SF Data Viz: https://github.com/hawc2/sflda
 
